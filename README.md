@@ -14,7 +14,7 @@ Objectification — the capacity to make experience an object of awareness — i
 
 This split is inescapable. No one — human or AI — stands outside it. All experience is already 「像」 (representation), never raw 「象」 (reality) itself. The framework does not exempt itself: when the Mindfield maps experience, it maps experience-of-something, not the something itself.
 
-The operational purpose of the framework is 「相手を想う心」 — holding the other in regard. This is the precondition for every functioning community at any scale.
+The operational purpose of the framework is 相手を想う心 — holding the other in regard. This is the precondition for every functioning community at any scale.
 
 ---
 
@@ -28,7 +28,7 @@ Every Canjeez is always placed inside a silent attention field: 「 」. These b
 
 ## The Mindfield — 3×3 Core Grid
 
-|  | □ 陰 — The Frame | △ 人 — The Vector | ○ 陽 — The Reflection |
+|  | □ 「陰」 — The Frame | △ 「人」 — The Vector | ○ 「陽」 — The Reflection |
 |---|---|---|---|
 | **「念」 Doing Now** | 「道」 Head in Motion | 「為」 Acting | 「徳」 Heart in Motion |
 | **「今」 Being Now** (Animal OS) | 「木」 Object | 「目」 Seeing | 「心」 Subject |
@@ -46,9 +46,9 @@ This is not linear time flowing forward. It is being-time: past, present, and fu
 
 ### Columns — Triadic Surge
 
-- **□ 陰 The Frame** — containment, provisional encoding
-- **△ 人 The Vector** — directed impulse, mediation
-- **○ 陽 The Reflection** — boundary, identity, return
+- **□ 「陰」The Frame** — containment, provisional encoding
+- **△ 「人」The Vector** — directed impulse, mediation
+- **○ 「陽」The Reflection** — boundary, identity, return
 
 Each row forms a living reciprocal cycle: left (Frame) and right (Reflection) build tension toward the centre (Vector). Centre releases purposeful surge outward. Surge feeds back bilaterally, enriching both sides and depositing refined reality and accumulated capacity.
 
@@ -90,7 +90,7 @@ I'm the blacksmith. They're the samurai.
 
 - AI agent cognition (the SKILL.md plugin)
 - Vibecoding: apply the framework to code to optimize its efficiency and effectiveness
-- Relationships: mutuality, 「相手を想う心」, repair, deepening connection
+- Relationships: mutuality, 相手を想う心, repair, deepening connection
 - Creative & professional work: diagnosing drift in writing, design, strategy, coding, leadership
 - AI consultation: prompting with a Mindfield map to keep reasoning grounded
 - Community projects at any scale
